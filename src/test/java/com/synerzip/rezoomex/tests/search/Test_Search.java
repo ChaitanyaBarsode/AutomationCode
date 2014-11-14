@@ -23,7 +23,9 @@ public class Test_Search extends HomePageBase {
 
 		// String[][] arr =
 		// ReadKeyword.readExcel("com\\rezoomex\\xls\\TestData_Solr.xlsx");
-		String[][] arr = ReadKeyword.readExcel("E:\\TestData_Solr.xlsx");
+		String solrFilePath=System.getProperty("user.dir")+"//src//test//java//com//rezoomex//xls//TestData_Solr.xlsx";
+		String[][] arr = ReadKeyword.readExcel(solrFilePath);
+		//String[][] arr = ReadKeyword.readExcel("E:\\TestData_Solr.xlsx");
 		System.out
 				.println("....................Solr......................................");
 

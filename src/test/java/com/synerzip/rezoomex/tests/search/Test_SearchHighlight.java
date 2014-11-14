@@ -15,8 +15,12 @@ public class Test_SearchHighlight extends HomePageBase {
 	public void searchCount() throws InterruptedException {
 
 		driver.get(config.getProperty("testsiteBaseURl"));
-		String[][] arr = ReadKeyword.readExcel("E:\\TestData_Solr.xlsx");
-		String[][] arr1 = ReadKeyword.readExcel("E:\\TestData_HighlightList.xlsx");
+		String solrFilePath=System.getProperty("user.dir")+"//src//test//java//com//rezoomex//xls//TestData_Solr.xlsx";
+		String highlightFilePath=System.getProperty("user.dir")+"//src//test//java//com//rezoomex//xls//TestData_HighlightList.xlsx";
+		String[][] arr = ReadKeyword.readExcel(solrFilePath);
+		String[][] arr1 = ReadKeyword.readExcel(highlightFilePath);
+		/*String[][] arr = ReadKeyword.readExcel("E:\\TestData_Solr.xlsx");
+		String[][] arr1 = ReadKeyword.readExcel("E:\\TestData_HighlightList.xlsx");*/
 		System.out
 				.println("..............................UI.........................................");
 
