@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CAS]">
+  <test name="Test_Search(failed)">
+    <classes>
+      <class name="com.synerzip.rezoomex.tests.search.TestCase15">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase15 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_SearchHighlight">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_SearchHighlight -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase11">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase11 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase14">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase14 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase16">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase16 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase17">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase17 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_Search">
+        <methods>
+          <include name="getResult"/>
+          <include name="searchCount"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_Search -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase13">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase13 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_HomePage">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_HomePage -->
+    </classes>
+  </test> <!-- Test_Search(failed) -->
+  <test name="Test_Highlight(failed)">
+    <classes>
+      <class name="com.synerzip.rezoomex.tests.search.Test_SearchHighlight">
+        <methods>
+          <include name="searchCount"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_SearchHighlight -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase15">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase15 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase11">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase11 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase14">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase14 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase16">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase16 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase17">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase17 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_Search">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_Search -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase13">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase13 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_HomePage">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_HomePage -->
+    </classes>
+  </test> <!-- Test_Highlight(failed) -->
+  <test name="Test_HomePage(failed)">
+    <classes>
+      <class name="com.synerzip.rezoomex.tests.search.TestCase15">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase15 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_SearchHighlight">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_SearchHighlight -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase11">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase11 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase14">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase14 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase16">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase16 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase17">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase17 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_Search">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_Search -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase13">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase13 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_HomePage">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="checkLogoTest"/>
+          <include name="checkTalentTextTest"/>
+          <include name="checkTextBoxTest"/>
+          <include name="getResult"/>
+          <include name="checkRezoomexTextTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_HomePage -->
+    </classes>
+  </test> <!-- Test_HomePage(failed) -->
+  <test name="TestCase11(failed)">
+    <classes>
+      <class name="com.synerzip.rezoomex.tests.search.TestCase15">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase15 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_SearchHighlight">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_SearchHighlight -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase11">
+        <methods>
+          <include name="checkSearchCount"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase11 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase14">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase14 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase16">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase16 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase17">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase17 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_Search">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_Search -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase13">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase13 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_HomePage">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_HomePage -->
+    </classes>
+  </test> <!-- TestCase11(failed) -->
+  <test name="TestCase13(failed)">
+    <classes>
+      <class name="com.synerzip.rezoomex.tests.search.TestCase15">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase15 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_SearchHighlight">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_SearchHighlight -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase11">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase11 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase14">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase14 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase16">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase16 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase17">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase17 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_Search">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_Search -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase13">
+        <methods>
+          <include name="checkcreatedAssessment"/>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase13 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_HomePage">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_HomePage -->
+    </classes>
+  </test> <!-- TestCase13(failed) -->
+  <test name="TestCase14(failed)">
+    <classes>
+      <class name="com.synerzip.rezoomex.tests.search.TestCase15">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase15 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_SearchHighlight">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_SearchHighlight -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase11">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase11 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase14">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+          <include name="checkcreatedAssessment"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase14 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase16">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase16 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase17">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase17 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_Search">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_Search -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase13">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase13 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_HomePage">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_HomePage -->
+    </classes>
+  </test> <!-- TestCase14(failed) -->
+  <test name="TestCase15(failed)">
+    <classes>
+      <class name="com.synerzip.rezoomex.tests.search.TestCase15">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+          <include name="checkcreatedAssessment"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase15 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_SearchHighlight">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_SearchHighlight -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase11">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase11 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase14">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase14 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase16">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase16 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase17">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase17 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_Search">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_Search -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase13">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase13 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_HomePage">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_HomePage -->
+    </classes>
+  </test> <!-- TestCase15(failed) -->
+  <test name="TestCase16(failed)">
+    <classes>
+      <class name="com.synerzip.rezoomex.tests.search.TestCase15">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase15 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_SearchHighlight">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_SearchHighlight -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase11">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase11 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase14">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase14 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase16">
+        <methods>
+          <include name="checkcreatedAssessment"/>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase16 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase17">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase17 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_Search">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_Search -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase13">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase13 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_HomePage">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_HomePage -->
+    </classes>
+  </test> <!-- TestCase16(failed) -->
+  <test name="TestCase17(failed)">
+    <classes>
+      <class name="com.synerzip.rezoomex.tests.search.TestCase15">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase15 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_SearchHighlight">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_SearchHighlight -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase11">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase11 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase14">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase14 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase17">
+        <methods>
+          <include name="checkcreatedAssessment"/>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase17 -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase16">
+        <methods>
+          <include name="getResult"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase16 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_Search">
+        <methods>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_Search -->
+      <class name="com.synerzip.rezoomex.tests.search.TestCase13">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.TestCase13 -->
+      <class name="com.synerzip.rezoomex.tests.search.Test_HomePage">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.synerzip.rezoomex.tests.search.Test_HomePage -->
+    </classes>
+  </test> <!-- TestCase17(failed) -->
+</suite> <!-- Failed suite [CAS] -->

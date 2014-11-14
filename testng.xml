@@ -1,0 +1,52 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="CAS" verbose="1">
+
+	<test name="Test_HomePage">
+		<classes>
+			<class name="com.synerzip.rezoomex.tests.search.Test_HomePage" />
+		</classes>
+	</test>
+
+	<test name="TestCase11">
+		<classes>
+			<class name="com.synerzip.rezoomex.tests.search.TestCase11" />
+		</classes>
+	</test>
+	<!-- <test name="TestCase12">
+		<classes>
+			<class name="com.synerzip.rezoomex.tests.search.TestCase12" />
+		</classes>
+	</test> -->
+	<test name="TestCase13">
+		<classes>
+			<class name="com.synerzip.rezoomex.tests.search.TestCase13" />
+		</classes>
+	</test>
+	<test name="TestCase14">
+		<classes>
+			<class name="com.synerzip.rezoomex.tests.search.TestCase14" />
+		</classes>
+	</test>
+	<test name="TestCase15">
+		<classes>
+			<class name="com.synerzip.rezoomex.tests.search.TestCase15" />
+		</classes>
+	</test>
+	<test name="TestCase16">
+		<classes>
+			<class name="com.synerzip.rezoomex.tests.search.TestCase16" />
+		</classes>
+	</test>
+	<test name="TestCase17">
+		<classes>
+			<class name="com.synerzip.rezoomex.tests.search.TestCase17" />
+		</classes>
+	</test>
+
+	<!-- <test name="TestCase19">
+		<classes>
+			<class name="com.synerzip.rezoomex.tests.search.TestCase19" />
+		</classes>
+	</test> -->
+</suite>

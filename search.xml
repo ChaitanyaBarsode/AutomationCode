@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="CAS" verbose="1">
+	<test name="Test_Search">
+		<classes>
+			<class name="com.synerzip.rezoomex.tests.search.Test_Search" />
+		</classes>
+	</test>
+
+	<test name="Test_Highlight">
+		<classes>
+			<class name="com.synerzip.rezoomex.tests.search.Test_SearchHighlight" />
+		</classes>
+	</test>
+</suite>
+
+
